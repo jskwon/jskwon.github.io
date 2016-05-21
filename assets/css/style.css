@@ -1,0 +1,49 @@
+div {
+	height: 100px;
+	width: 200px;
+	padding: 20px;
+	color: white;
+	background-color: indianred;
+	text-align: center;
+}
+
+h1 {
+	height: 80px;
+	margin-top: 50px;
+	margin-bottom: 0px;
+	font-family: montserrat;
+	font-size: 80px;
+	text-align: center;
+}
+
+h2 {
+	margin: 0px;
+	text-align: center;
+	font-family: oswald;
+	font-size: 40px;
+}
+
+img {
+	max-width: 80%;
+	: auto;
+
+}
+
+#name {
+	position: fixed;
+	margin: 15px 85% 30px 15px;
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+	font-size: 30px;
+	line-height: 1;
+	text-align: right;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	color: #FFF9EE;
+	
+}
